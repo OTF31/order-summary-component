@@ -4,6 +4,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ---
 
-[See in GitHub Pages](https://denisomarcuyottito.github.io/order-summary-component/)
+[See in GitHub Pages](https://OTF31.github.io/order-summary-component/)
 
 ![image](https://user-images.githubusercontent.com/75378049/160218534-d75c802b-3dc8-4cdb-849d-749fd1cd7713.png)
